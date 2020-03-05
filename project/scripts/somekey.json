@@ -1,0 +1,23 @@
+{
+  "type": "service_account",
+  "project_id": "endless-bolt-264307",
+  "private_key_id": "a641fd2302bb568e89b79b134b2d11398cacf290",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDF+53oyQytAP5A\nOVpoA3ocnwz3FgNIDjixEBV0r8ysimIccPCRkpOhyUW
+qEcteH47BWj4nlO7FuI8X\nasnNJhpwZzZMyAp1fYaxrJPXNAEQD3NeIioFFuSi4V20xaWdpcxaN6uREa/2avUi\n0flBCd/UhXHi06g5p9zb2l44fxgKReoryNTwBDByWSGYD9m00Cxi/BhJS6d+eZks\n0
+QMDJ8w5KMcdSHblnAVDZSWsiwTf2WWQQ2pgP/VRzczasb5/ArHwlMg/GdzymwgY\nBGv6GfnWohCvYHzA8CGr2rWW7ZS9lpIJRzbV80CUCH8EtOojc4pUBaRnMmSPxnK9\nIaLJR2cNAgMBAAECggEALUnPB
+/KBn0uUXX2hJBzzgHuTnCvhaUiziDFdLxmN0MRB\nCC9/oFUuxzoC4RH7+tZuMeWiRSyo5/q9ZMZtTivSrXa2sZ6q4dBqkNcg5IAFZDac\nleJryUlA2M+Dv3fc2DCWi+ajLOamYVB7LdFpWorXNEaoVBJFr
+5aqC3KqzfKovaR0\nhB7Lfk5AgV+JFlnXTU5lS+94BDlgGbEpky7/vMkRPYBYHcYGg0uqsZ1sWAPt3r+E\nIvYyfq5GFsXx6VwHDgAB1W5F+zvxqDvcXPHfPtU1CQRag4+0pv9fO+WATVcSyxzO\nGwoZBqx
+Wwj0NYl0OLPC2lvxv+x7SG/mncQwOQuVmIQKBgQDqpgiQt+UJik+HIK96\n0j3+xa2cbzEDH8p22Nev5HXKVpeADl37hg48SZzQlXuKjg8Pe1IqOKHsoVxhYmEa\ncm7AhvkME+oRWVrbtodQuqL5mR5Fgky
+tcazzVc4Edt/kaqBfIf87yw7YP6jsgXPZ\nPurMpSftGOG6FIlAILclG4cKEQKBgQDX/3ukrFj+Js0IxdxMsjuovOBO3G2lBrGb\nCOex2Jd8w+WdmWK2KWBG25KPR11hzaoDQN2WgwxKkadgvaePlSl3YKQ
+01qsqSt61\nXt0L73rlh3CxeBcKyHYbdCJTAMwfMpVSLnGAKkOGIGEMHWLikI35bgbYUEG0AURL\nWedW36DxPQKBgCfleRlaGxhHKwR3uz5v1tiltcIeab/1PNB+SBYBC0IO/Q1p4/Lr\nNSps/bu9XtcNF
+mR0fGDvZiC8wt9QAeCkSk5z5I54KFkwzzECVPmV8jXsIeiBohXv\neQ+arD+4EpNcyc3DEwmQmgKMuGUWEaODfhqzjhlTHLYt3bRIm7s0df5xAoGAXaGA\n/oQ7W4iETq4+bfzBAcdGUMkaunOpX7Q/g4eJO
+2tLyMJp2N8cvfqGkJd18mSNszVW\nGN2b4WM8NCJiVUpqnDYHWGRJ9F5aJjMGDRt1obPRdQzCqEj3cbUo/+QTl958fhBl\n4RHxDV5R00eVyvKwqJQ6YWCA6r+11BgXwT/Va10CgYEAugN/BgRht7RGtl9st
+9/Y\nWqPclubcB37Z2YJ5/6q5jH93VkM7uhbZCSlgHEiBU2VNA5bpZI0KMgU+8PJrhTaH\nTm3m96xg7BeHc4iXEIOQs6Ev88mx8VckKny5GeQwOPV3EdkP7EYy93gx3d53iNqZ\nvr5VLniPJRUocQSHfN4
+cu5k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-jenkins-gcr-account@endless-bolt-264307.iam.gserviceaccount.com",
+  "client_id": "117851665135826128822",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-jenkins-gcr-account%40endless-bolt-264307.iam.gserviceaccount.com"
+}
